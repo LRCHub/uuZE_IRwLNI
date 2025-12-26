@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mirrors",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2025-12-26T16:44:02.885295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smoke & Mirrors",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Smoke_&_Mirrors_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smoke & Mirrors",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Smoke_&_Mirrors_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Warning Call (From \"Mirror's Edge Catalyst\")",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/03_Warning_Call_(From__Mirror's_Edge_Catalyst_)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Warning Call (Theme From Mirror’s Edge Catalyst)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_Warning_Call_(Theme_From_Mirror’s_Edge_Catalyst)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smoke & Mirrors",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/05_Smoke_&_Mirrors_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smoke and Mirrors",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/06_Smoke_and_Mirrors_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smoke And Mirrors - Rjd2",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/07_Smoke_And_Mirrors_-_Rjd2_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If You Can't See My Mirrors",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/08_If_You_Can't_See_My_Mirrors_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smoke N Mirrors",
+      "artist": "Unfoonk feat. Young Stoner Life",
+      "has_synced": false,
+      "path": "select/09_Smoke_N_Mirrors_Unfoonk_feat._Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smoke N Mirrors",
+      "artist": "Unfoonk, Young Stoner Life",
+      "has_synced": false,
+      "path": "select/10_Smoke_N_Mirrors_Unfoonk,_Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "16 Mirrors",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/11_16_Mirrors_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dream of Mirrors",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/12_Dream_of_Mirrors_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dream of Mirrors",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/13_Dream_of_Mirrors_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smoke and Mirrors",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/14_Smoke_and_Mirrors_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beyond Mirrors",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/15_Beyond_Mirrors_Yello.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lamborghini Mirrors (feat. Booka600)",
+      "artist": "Lil Durk feat. Booka600",
+      "has_synced": true,
+      "path": "select/16_Lamborghini_Mirrors_(feat._Booka600)_Lil_Durk_feat._Booka600.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lamborghini Mirrors (feat. Booka600)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/17_Lamborghini_Mirrors_(feat._Booka600)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "1000 Mirrors",
+      "artist": "Asian Dub Foundation",
+      "has_synced": true,
+      "path": "select/18_1000_Mirrors_Asian_Dub_Foundation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_Mirrors_Justin_Timberlake.txt"
+    }
+  ]
+}
